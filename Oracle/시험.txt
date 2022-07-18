@@ -1,0 +1,19 @@
+평가 학습모듈 : SQL 활용
+
+tbl_product, tbl_member, tbl_buy 를 기본으로한다.
+- 테이블명 변경. 테이블은 컬럼, 기본키, 외래키, 기본값 설정해서 생성
+- 테이블 추가 생성
+- 시퀀스 생성
+- 테이블 변경 : 컬럼 추가, 외래키  추가
+- 데이터 insert : 기존 소스 참고 가능
+- DML : insert, update, delete,select 작성하는 것
+- create view
+- select
+1) 조회할 컬럼선택
+2) where 조건
+3) 서브쿼리
+4) 조인, 외부조인
+5) 통계함수
+6) group by
+7) 오라클 함수 : to_char, to_date, decode, nvl
+
